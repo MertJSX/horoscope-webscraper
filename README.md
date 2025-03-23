@@ -6,7 +6,7 @@
 
 ## Route usage
 
-The route: ```/horoscope?horoscope={horoscope}&time={time}```
+The route: ```http://localhost:3000/horoscope?horoscope={horoscope}&time={time}```
 
 
 ### Queries
