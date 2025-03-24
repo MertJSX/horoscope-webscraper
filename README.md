@@ -12,18 +12,18 @@ The route: ```http://localhost:3000/horoscope?horoscope={horoscope}&time={time}`
 ### Queries
 
 horoscope:
-- oven
-- telec
-- bliznaci
-- rak
-- luv
-- deva
-- vezni
-- skorpion
-- strelec
-- kozirog
-- vodolei
-- ribi
+- (ARIES) oven
+- (TAURUS) telec
+- (GEMINI) bliznaci
+- (CANCER) rak
+- (LEO) luv
+- (VIRGO) deva
+- (LIBRA) vezni
+- (SCORPIO) skorpion
+- (SAGITTARIUS) strelec
+- (CAPRICORN) kozirog
+- (AQUARIUS) vodolei
+- (PISCES) ribi
 
 time:
 - daily
